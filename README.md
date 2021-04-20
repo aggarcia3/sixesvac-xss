@@ -10,4 +10,5 @@ Se utiliza XSS para cargar un script subido a GitHub Pages, un servicio gratuito
 
 ## Herramientas usadas
 https://www.shorturl.at/shortener.php
+
 https://onlinetexttools.com/url-encode-text
