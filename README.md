@@ -9,7 +9,7 @@ Ejemplo de ataque de XSS para el robo de credenciales en la aplicación de prueb
 Se utiliza XSS para cargar un script subido a GitHub Pages, un servicio gratuito de GitHub que publica recursos estáticos de un repositorio de GitHub. Para acortar el URL se utiliza un acortador de URL gratuito. Además, el script diseñado para ejecutar el ataque está minificado lo máximo posible, sacrificando compatibilidad con Internet Explorer y navegadores más antiguos donde es necesario, para usar sintaxis y funciones más nuevas que redundan en un código más breve.
 
 ## Herramientas usadas
-https://tinyurl.com/app
+http://bit.ly
 
 https://onlinetexttools.com/url-encode-text
 
